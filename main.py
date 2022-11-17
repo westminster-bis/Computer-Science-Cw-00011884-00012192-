@@ -21,7 +21,7 @@ screen.onkey(snake.down, "Down")  # respond arrow down key, and call a function 
 screen.onkey(snake.left, "Left")  # respond arrow left key, and call a function to turn the snake
 screen.onkey(snake.right, "Right")  # respond arrow right key, and call a function to turn the snake
 
-######### Control with W,A,S,D ##########
+######### Control with W,A,S,D  ##########
 screen.onkey(snake.up, "w")  # respond W key, and call a function to turn the snake
 screen.onkey(snake.down, "s")  # respond S key, and call a function to turn the snake
 screen.onkey(snake.left, "a")  # respond A key, and call a function to turn the snake
